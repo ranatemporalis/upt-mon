@@ -7,4 +7,4 @@ sites:
     method: GET
     expectStatus: 200
     followRedirects: true
-    maxResponseTime: 60000
+    maxResponseTime: 360000
