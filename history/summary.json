@@ -1,5 +1,23 @@
 [
   {
+    "name": "мудл ВІТІ МОУ",
+    "url": "https://moodle.viti.edu.ua",
+    "icon": "https://icons.duckduckgo.com/ip3/moodle.viti.edu.ua.ico",
+    "slug": "mudl-viti-mou",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Ministry of Digital Transformation",
     "url": "https://mitit.mil.gov.ua",
     "icon": "https://icons.duckduckgo.com/ip3/mitit.mil.gov.ua.ico",
@@ -10,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-06-11": 19
+      "2025-06-11": 30
     }
   }
 ]
