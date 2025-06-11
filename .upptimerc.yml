@@ -1,12 +1,12 @@
 owner: ranatemporalis
 repo: upt-mon
 sites:
-#  - name: мудл ВІТІ МОУ
-#    url: https://moodle.viti.edu.ua
-#    method: GET
-#    expectStatus: 200
-#    followRedirects: true
-#    maxResponseTime: 360000
+  - name: мудл ВІТІ МОУ
+    url: https://moodle.viti.edu.ua
+    method: GET
+    expectStatus: 200
+    followRedirects: true
+    maxResponseTime: 360000
   - name: Ministry of Digital Transformation
     url: https://mitit.mil.gov.ua
     method: GET
