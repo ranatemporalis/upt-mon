@@ -1,0 +1,10 @@
+
+owner: ranatemporalis
+repo: upt-mon
+sites:
+  - name: Website
+    url: https://moodle.viti.edu.ua
+    method: GET
+    expectStatus: 200
+    followRedirects: true
+    maxResponseTime: 60000
