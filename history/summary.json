@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moodle.viti.edu.ua.ico",
     "slug": "mudl-viti-mou",
     "status": "down",
-    "uptime": "88.29%",
-    "uptimeDay": "88.29%",
-    "uptimeWeek": "88.29%",
-    "uptimeMonth": "88.29%",
-    "uptimeYear": "88.29%",
+    "uptime": "11.18%",
+    "uptimeDay": "11.18%",
+    "uptimeWeek": "11.18%",
+    "uptimeMonth": "11.18%",
+    "uptimeYear": "11.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 12
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 119,
-    "timeDay": 119,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "time": 134,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-06-11": 30
+      "2025-06-11": 42
     }
   }
 ]
