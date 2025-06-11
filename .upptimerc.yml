@@ -1,8 +1,7 @@
-
 owner: ranatemporalis
 repo: upt-mon
 sites:
-  - name: Website
+  - name: мудл ВІТІ МОУ
     url: https://moodle.viti.edu.ua
     method: GET
     expectStatus: 200
