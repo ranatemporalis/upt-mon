@@ -7,9 +7,3 @@ sites:
     expectStatus: 200
     followRedirects: true
     maxResponseTime: 30000
-  - name: Ministry of Digital Transformation
-    url: https://mitit.mil.gov.ua
-    method: GET
-    expectStatus: 200
-    followRedirects: true
-    maxResponseTime: 10000  # in milliseconds (10s)
