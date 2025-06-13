@@ -1,7 +1,7 @@
 url: https://moodle.viti.edu.ua
-status: up
-code: 200
-responseTime: 1072
-lastUpdated: 2025-06-13T09:40:06.779Z
+status: down
+code: 503
+responseTime: 462
+lastUpdated: 2025-06-13T09:56:59.052Z
 startTime: 2025-06-11T13:31:16.686Z
 generator: Upptime <https://github.com/upptime/upptime>
